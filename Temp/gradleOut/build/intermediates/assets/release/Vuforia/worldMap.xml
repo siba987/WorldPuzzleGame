@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="australia" size="0.080000 0.098335" />
+    <ImageTarget name="africa" size="0.080000 0.098335" />
+    <ImageTarget name="SouthAmerica" size="0.080000 0.098335" />
+    <ImageTarget name="NorthAmerica" size="0.080000 0.098335" />
+    <ImageTarget name="worldmap_front" size="100.000000 73.182777" />
+    <ImageTarget name="worldmap_back" size="100.000000 71.709091" />
+    <ImageTarget name="australiaB5" size="0.060000 0.045000" />
+    <ImageTarget name="australiaB4" size="0.060000 0.045000" />
+    <ImageTarget name="australiaB3" size="0.060000 0.045000" />
+    <ImageTarget name="australiaB2" size="0.060000 0.045000" />
+    <ImageTarget name="australiaB1" size="0.060000 0.045000" />
+    <ImageTarget name="australiaB0" size="0.060000 0.045000" />
+    <ImageTarget name="africaB4" size="0.080000 0.060000" />
+    <ImageTarget name="africaB3" size="0.080000 0.060000" />
+    <ImageTarget name="africaB2" size="0.080000 0.060000" />
+    <ImageTarget name="africaB1" size="0.080000 0.060000" />
+    <ImageTarget name="africaB0" size="0.080000 0.060000" />
+    <ImageTarget name="africaB5" size="0.080000 0.060000" />
+  </Tracking>
+</QCARConfig>

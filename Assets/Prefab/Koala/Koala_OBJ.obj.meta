@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 352a7b7068b4a493ca3b10ade39ad3bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabeza_Proxy_Koala
+    100002: Koala_Cuerpo_Proxy
+    100004: Koala_left_eye
+    100006: Koala_left_foot
+    100008: Koala_left_hand
+    100010: Koala_nose
+    100012: //RootNode
+    100014: Koala_right_eye
+    100016: Koala_right_foot
+    100018: Koala_right_hand
+    100020: Koala_teeth
+    100022: Koala_tonge
+    400000: Cabeza_Proxy_Koala
+    400002: Koala_Cuerpo_Proxy
+    400004: Koala_left_eye
+    400006: Koala_left_foot
+    400008: Koala_left_hand
+    400010: Koala_nose
+    400012: //RootNode
+    400014: Koala_right_eye
+    400016: Koala_right_foot
+    400018: Koala_right_hand
+    400020: Koala_teeth
+    400022: Koala_tonge
+    2100000: Koala2_face_front
+    2100002: Koala2_face_back1
+    2100004: Koala2_blinn4SG
+    2100006: Koala2_blinn4SG1
+    2100008: Koala2_cos_front
+    2100010: Koala2_cos_back
+    2100012: Koala2_blinn3SG
+    2100014: Koala2_blinn6SG
+    2100016: Koala2_blinn2SG
+    2100018: Koala2_lambert2SG
+    2100020: Koala2_blinn11SG
+    2300000: Cabeza_Proxy_Koala
+    2300002: Koala_Cuerpo_Proxy
+    2300004: Koala_left_eye
+    2300006: Koala_left_foot
+    2300008: Koala_left_hand
+    2300010: Koala_nose
+    2300012: Koala_right_eye
+    2300014: Koala_right_foot
+    2300016: Koala_right_hand
+    2300018: Koala_teeth
+    2300020: Koala_tonge
+    3300000: Cabeza_Proxy_Koala
+    3300002: Koala_Cuerpo_Proxy
+    3300004: Koala_left_eye
+    3300006: Koala_left_foot
+    3300008: Koala_left_hand
+    3300010: Koala_nose
+    3300012: Koala_right_eye
+    3300014: Koala_right_foot
+    3300016: Koala_right_hand
+    3300018: Koala_teeth
+    3300020: Koala_tonge
+    4300000: Cabeza_Proxy_Koala
+    4300002: Koala_Cuerpo_Proxy
+    4300004: Koala_left_eye
+    4300006: Koala_left_foot
+    4300008: Koala_left_hand
+    4300010: Koala_nose
+    4300012: Koala_right_eye
+    4300014: Koala_right_foot
+    4300016: Koala_right_hand
+    4300018: Koala_teeth
+    4300020: Koala_tonge
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
